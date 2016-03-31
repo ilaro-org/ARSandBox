@@ -7,8 +7,8 @@ Spanish manual by Angel Valverde
 
 ---
 
-[![IMAGE ALT TEXT HERE](https://github.com/ilaro-org/ARSandBox/blob/master/arsandbox.jpg)](https://www.instagram.com/p/BCqqkMgHBXE/)
-![alt text](https://github.com/ilaro-org/ARSandBox/blob/master/AR_SandBox.png "exploded view")
+[![IMAGE ALT TEXT HERE](https://github.com/ilaro-org/ARSandBox/blob/master/arsandbox.jpg =250x)](https://www.instagram.com/p/BCqqkMgHBXE/)
+![alt text](https://github.com/ilaro-org/ARSandBox/blob/master/AR_SandBox.png "exploded view" =250x)
 
 ---
 
