@@ -2,6 +2,7 @@
 Augmented reality sand box designed to work with the IDAV -UC Davis- [software](http://idav.ucdavis.edu/~okreylos/ResDev/SARndbox/).
 
 Included STEP DXF and BOM sources.
+Spanish manual by Angel Valverde
 
 ![alt text](https://github.com/ilaro-org/ARSandBox/blob/master/arsandbox.jpg "view")
 ![alt text](https://github.com/ilaro-org/ARSandBox/blob/master/AR_SandBox.png "exploded view")
