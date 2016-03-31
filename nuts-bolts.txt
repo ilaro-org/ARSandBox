@@ -1,0 +1,19 @@
+ARSANDBOX v1 by ilaro.org
+NUTS AND BOLTS LIST
+
+
+L-connectors 30x30	16
+L-connectors 20x20	12
+
+regular-M4x16		8
+regular-M6x12		32 
+regular-M5x10		24
+avelando-M8x12	8
+avellando-M5x12	24
+avellando-M5x16	20
+
+nuts T-slot M4	8
+nuts T-slot M5	32
+nuts T-slot M6	48
+nuts T-slot M8	8
+
